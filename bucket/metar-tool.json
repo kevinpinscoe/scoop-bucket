@@ -1,0 +1,15 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kevinpinscoe/metar-tool/releases/download/v1.1.0/metar-tool-windows-amd64.zip",
+            "bin": [
+                "metar-tool.exe"
+            ],
+            "hash": "aab86b8e08b9a5b27fcbff160247a178f4331c278b1c2d94aa19b0877ef39336"
+        }
+    },
+    "homepage": "https://github.com/kevinpinscoe/metar-tool",
+    "license": "MIT",
+    "description": "METAR aviation weather decoder"
+}
