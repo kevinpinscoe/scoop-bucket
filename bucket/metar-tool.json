@@ -1,12 +1,12 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kevinpinscoe/metar-tool/releases/download/v1.1.1/metar-tool-windows-amd64.zip",
+            "url": "https://github.com/kevinpinscoe/metar-tool/releases/download/v1.1.2/metar-tool-windows-amd64.zip",
             "bin": [
                 "metar-tool.exe"
             ],
-            "hash": "c4655f1f66737891e78c4cfebd2a5b70e668cf533c3c207ddc9794a94eafa7a3"
+            "hash": "2e8e136ec572c6a3353f09edc574077b0e5d5d80f6b9aca77b0a21185d06165d"
         }
     },
     "homepage": "https://github.com/kevinpinscoe/metar-tool",
