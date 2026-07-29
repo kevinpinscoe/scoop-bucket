@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kevinpinscoe/vermilian/releases/download/v1.2.4/Vermilian-win32-x64-1.2.4.zip",
-      "hash": "fa972de78c09d45d72580c06bfcee517888d30e272c5f719b69f3c882a3079a5",
+      "url": "https://github.com/kevinpinscoe/vermilian/releases/download/v1.2.5/Vermilian-win32-x64-1.2.5.zip",
+      "hash": "f99e51bcadea7eefbcd08a724634bf3b1b881fadf621588bef2915c27bc20bc4",
       "bin": "Vermilian.exe",
       "shortcuts": [["Vermilian.exe", "Vermilian"]]
     }
