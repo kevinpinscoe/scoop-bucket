@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kevinpinscoe/bao-policy-editor/releases/download/v0.1.0/bpe-windows-amd64.zip",
+            "bin": [
+                "bpe.exe"
+            ],
+            "hash": "baacebade0cd8a553147bf74341a321a041eee7e391ee152470d0464c314a230"
+        }
+    },
+    "homepage": "https://github.com/kevinpinscoe/bao-policy-editor",
+    "license": "MPL-2.0",
+    "description": "Terminal editor for OpenBao HCL ACL policies"
+}
