@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kevinpinscoe/bao-policy-editor/releases/download/v0.1.0/bpe-windows-amd64.zip",
+            "url": "https://github.com/kevinpinscoe/bao-policy-editor/releases/download/v0.1.1/bpe-windows-amd64.zip",
             "bin": [
                 "bpe.exe"
             ],
-            "hash": "baacebade0cd8a553147bf74341a321a041eee7e391ee152470d0464c314a230"
+            "hash": "a9874fcb9e0b2559f6bcf26dbf1c26dee3bb1c19fee36088c32e8f4804c59ea2"
         }
     },
     "homepage": "https://github.com/kevinpinscoe/bao-policy-editor",
